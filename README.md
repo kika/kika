@@ -18,7 +18,7 @@ Even if I run a large team I still can't get away from the urge to write somethi
   * [LinkedIn](https://www.linkedin.com/in/kikap/)
 
 ### Hobbies
-  * I sail boats. I don't do it competetively (but my daugther does!) but leisurely. I like to moor the boat in a lonely place and watch sunsets and sunrises for a few days and then sail to next such place. I sailed Carribean, Mediterranean and French Polynesia.
+  * I sail boats. I don't do it competitively (but my daugther does!) but leisurely. I like to moor the boat in a lonely place and watch sunsets and sunrises for a few days and then sail to next such place. I sailed Carribean, Mediterranean and French Polynesia.
   * I started my professional career as a self-taught electronics engineer and
   still have a soft spot in my heart for electronics, so I sometimes build a tiny
   computer to do something.
