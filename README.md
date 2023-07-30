@@ -2,6 +2,9 @@
 
 It's spelled like krill, but with ee after k. Cyril works too (it's the same name)
 
+One of two Bulgarian (or Greek, the jury is still out) monks who invented 
+Cyrillic alphabet was Cyril/Kirill
+
 ### What do I do for a living
 
 I make your software run outside your laptop. I build infrastructure, I make
@@ -23,6 +26,8 @@ risky stuff that's not appropriate for a larger organization.
   * [LinkedIn](https://www.linkedin.com/in/kikap/)
 
 ### Hobbies
+  * I program computers. I jokingly say "I don't have a life, my primary hobby
+    is my job". As any good joke it's only a half joke. And not a good one.
   * I sail boats. I don't do it competitively (but my daugther does!) but
     leisurely. I like to moor the boat in a lonely place and watch sunsets and
     sunrises for a few days and then sail to next such place. I sailed
@@ -41,7 +46,7 @@ risky stuff that's not appropriate for a larger organization.
     problem completely though).
   * I have very strong opinions on very many things. If someone is making a
     mistake I'll fight tooth and nail to talk reason into this person, but once
-    the decision has been made, it's made.
+    the decision has been made, it's made. I don't say "I told you so".
   * I prefer clear separation of duties (occupational hazard). If I'm
     responsible for something, I'm responsible for it and my decision is final,
     although I can engage in a very long conversations about possible options,
@@ -51,6 +56,14 @@ risky stuff that's not appropriate for a larger organization.
   * I hired a lot of people over the course of the last 30 years, and I can
     barely name 2 mishires. I progressively built better and better teams.
     Probably the most mastered skill I have is hiring.
+  * I can't learn traditional way. Handbooks and video courses make me fall 
+    asleep (literally, when I have trouble getting asleep, I watch some 
+    educational video on Youtube). Maybe it's some mental disorder, I don't know.
+    I learn a lot and I learn quite fast by jumping head first and start doing.
+    Then I get stuck and buy a book. As soon as I unstuck myself I keep doing. Etc.
+  * As a consequence of the above it doesn't make any sense to ask me if I can
+    do something, because the answer is always "yes", even if I don't have 
+    a slightest idea of what it is.
 
 ### Social
   * [Twitter](https://twitter.com/kpertsev)
