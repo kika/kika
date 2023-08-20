@@ -53,6 +53,9 @@ risky stuff that's not appropriate for a larger organization.
     etc. If someone else is responsible for something, being asked I'll offer
     my strong opinions (see above), but I'll go with the decision of the
     responsible person.
+  * My opinions are usually based on some direct or indirect knowledge. Usually
+    if I have no knowledge I have no opinion as well. I have good intuition and
+    it helped me innumerable times, but it's not a replacement for knowlege. 
   * I hired a lot of people over the course of the last 30 years, and I can
     barely name 2 mishires. I progressively built better and better teams.
     Probably the most mastered skill I have is hiring.
@@ -63,7 +66,8 @@ risky stuff that's not appropriate for a larger organization.
     Then I get stuck and buy a book. As soon as I unstuck myself I keep doing. Etc.
   * As a consequence of the above it doesn't make any sense to ask me if I can
     do something, because the answer is always "yes", even if I don't have 
-    a slightest idea of what it is.
+    a slightest idea of what it is. So given the previous it's safer to ask me
+    if I know something.
 
 ### Social
   * [Twitter](https://twitter.com/kpertsev)
