@@ -64,6 +64,8 @@ risky stuff that's not appropriate for a larger organization.
     educational video on Youtube). Maybe it's some mental disorder, I don't know.
     I learn a lot and I learn quite fast by jumping head first and start doing.
     Then I get stuck and buy a book. As soon as I unstuck myself I keep doing. Etc.
+    (I just found out that is not a disability but known problem: 
+    https://mkremins.github.io/blog/doors-headaches-intellectual-need/)
   * As a consequence of the above it doesn't make any sense to ask me if I can
     do something, because the answer is always "yes", even if I don't have 
     a slightest idea of what it is. So given the previous it's safer to ask me
